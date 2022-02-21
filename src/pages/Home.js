@@ -192,7 +192,7 @@ const Home = () => {
               </p>
             </div>
           </div>
-          {/* <ServiceCarousel /> */}
+          <ServiceCarousel />
         </div>
         {/* Our Service Page ended here */}
         {/* CRYPTO MINING CALCULATOR PAGE STARTED HERE */}
@@ -231,7 +231,7 @@ const Home = () => {
               </p>
             </div>
           </div>
-          {/* <ProductCarousel /> */}
+          <ProductCarousel />
         </div>
 
         {/* ABOUT OUR PRODUCTS PAGE Ended HERE */}
@@ -262,7 +262,7 @@ const Home = () => {
                 Convenience to STMX token holders
               </h4>
             </div>
-            {/* <TokenSealCarousel/> */}
+            <TokenSealCarousel/>
             <div className=" d-flex py-2 flex-column py-1 justify-content-center align-items-center">
               <h6 className="text-white  fw-bold    display-6 ms-3">
               Join Token Sale
