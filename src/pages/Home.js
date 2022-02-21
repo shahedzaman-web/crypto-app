@@ -18,7 +18,7 @@ import { FaPlayCircle, FaCheck } from "react-icons/fa";
 
 const Home = () => {
   return (
-    <>
+    <div className="app-bg">
       {/* NavBar started here */}
       <AppNavbar />
       {/* NavBar ended here */}
@@ -332,7 +332,7 @@ const Home = () => {
           </div>
 
         {/* General Questions Page Ended here */}
-      </>
+      </div>
    
   );
 };
